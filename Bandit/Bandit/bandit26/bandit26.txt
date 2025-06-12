@@ -1,0 +1,1 @@
+Para ejecutar este script, primero debes seguir los pasos del nivel Bandit25, pero utilizando las credenciales del usuario bandit26. Luego, crea una carpeta temporal, dentro de la cual deberás crear un archivo .sh y pegar en él este script. Al ejecutarlo, obtendrás la flag del nivel bandit27.
