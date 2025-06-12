@@ -1,0 +1,7 @@
+Cuando estemos en more, seguimos estos pasos:
+
+1.-Presionamos la tecla 'v' para entrar al editor.
+
+2.-Escribimos ':set shell=/bin/bash' y pulsamos Enter.
+
+3.-Luego escribimos ':!bash' y pulsamos Enter para abrir una shell interactiva.
